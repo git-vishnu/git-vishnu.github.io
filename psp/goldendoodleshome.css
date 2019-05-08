@@ -1,34 +1,19 @@
 body {
-	background-color:#FDD475;
+	background-color:black;
 }
 header {
-	background-color:#FFCCAC;
+	/*background-color:#FFCCAC;*/
+	background-color:lightblue;
 	text-align:center;
-	font-family:palatino;
-	font-size:5vw;
+	font-family:'Times New Roman', Times, serif;
+	font-size:3vw;
 	text-align:center;
-	color: white;
-}
-nav {
-	background-color:#FFEB94;
-	height: 50px;
-}
-button {
-	font-size: 25px; 
-	padding: 10px; 
-	font-family: palatino;
-	background-color:#FFEB94; 
-	color: black;
-	border-radius: 25px;
-	border: 1px solid #FFEB94;
-}
-button:hover {
-	background-color:#FFCCAC; 
+	color: blue;
 }
 p {
 	font-size: 35px;
 	color:white;
-	text-align:center;
+	text-align:left;
 	font-family: georgia;
 }
 img {
